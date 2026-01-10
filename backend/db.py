@@ -1,4 +1,5 @@
-import duckdb, pandas as pd
+import duckdb
+import pandas as pd
 
 class SessionDB:
     def __init__(self):
